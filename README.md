@@ -103,4 +103,3 @@ He creado esta serie de videos que ayudan a entender la PC3. Está en el orden e
 5. [Open Zeppelin Defender](https://drive.google.com/file/d/1yfQoXsqV7SdW1Ms9MHOGiZVkaOCqtE5o/view?usp=drive_link)
 6. [Envio de Ether al SC](https://drive.google.com/file/d/1ssSH-OVm8mX8EpKp4EL2CVeNmgchP2VU/view?usp=drive_link)
 7. [Swap USDC=>MiPrimerToken](https://drive.google.com/file/d/11kgYB4o3SdmHUM0qVIleXWl1HugAZk_b/view?usp=drive_link)
-
